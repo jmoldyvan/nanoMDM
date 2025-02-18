@@ -1,0 +1,5 @@
+ca.key
+ca.pem
+terraform.tfstate*
+.terraform/
+.DS_Store

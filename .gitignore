@@ -3,3 +3,6 @@ ca.pem
 terraform.tfstate*
 .terraform/
 .DS_Store
+terraform.tfstate.backup
+openssl.cnf
+nanomdm
